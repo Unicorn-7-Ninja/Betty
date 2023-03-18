@@ -1,1 +1,1 @@
-install
+sudo ./install.sh
